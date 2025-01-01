@@ -1,0 +1,13 @@
+name = "Glowing Torchflower"
+filename = "glowing-torchflower-1.21.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c0b0c4c4f88f7b794d0118315f04090f0ee58a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5946540
+project-id = 827288
