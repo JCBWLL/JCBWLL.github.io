@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-fabric-1.21.4-1.13.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1c71c8e2807b96eeed1d50031bb2059e88889dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5959527
+project-id = 549719

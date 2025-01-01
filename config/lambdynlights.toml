@@ -1,0 +1,124 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = true
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false
+
+	[entity.minecraft]
+		bee = true
+		axolotl = true
+		egg = true
+		arrow = true
+		cow = true
+		magma_cube = true
+		pig = true
+		skeleton = true
+		spruce_boat = true
+		llama = true
+		bat = true
+		frog = true
+		hoglin = true
+		armadillo = true
+		rabbit = true
+		silverfish = true
+		firework_rocket = true
+		armor_stand = true
+		drowned = true
+		experience_orb = true
+		dolphin = true
+		item = true
+		turtle = true
+		shulker = true
+		salmon = true
+		wandering_trader = true
+		wither_skeleton = true
+		piglin_brute = true
+		goat = true
+		acacia_boat = true
+		item_frame = true
+		horse = true
+		minecart = true
+		ender_dragon = true
+		leash_knot = true
+		spectral_arrow = true
+		oak_boat = true
+		llama_spit = true
+		glow_squid = true
+		warden = true
+		squid = true
+		shulker_bullet = true
+		tnt = true
+		creeper = true
+		lightning_bolt = true
+		enderman = true
+		dragon_fireball = true
+		chicken = true
+		trader_llama = true
+		donkey = true
+		bogged = true
+		chest_minecart = true
+		fox = true
+		tropical_fish = true
+		slime = true
+		pillager = true
+		iron_golem = true
+		area_effect_cloud = true
+		zombified_piglin = true
+		piglin = true
+		blaze = true
+		end_crystal = true
+		endermite = true
+		cat = true
+		zombie = true
+		ender_pearl = true
+		guardian = true
+		ghast = true
+		sheep = true
+		fireball = true
+		player = true
+		pufferfish = true
+		potion = true
+		trident = true
+		eye_of_ender = true
+		wither_skull = true
+		wolf = true
+		villager = true
+		skeleton_horse = true
+		fishing_bobber = true
+		zombie_villager = true
+		elder_guardian = true
+		small_fireball = true
+		strider = true
+		polar_bear = true
+		hopper_minecart = true
+		falling_block = true
+		painting = true
+		cave_spider = true
+		cod = true
+		witch = true
+		spider = true
+		wither = true
+		spruce_chest_boat = true
