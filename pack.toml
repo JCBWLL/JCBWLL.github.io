@@ -1,0 +1,13 @@
+name = "skibidi mods"
+author = "JCBWLL"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "45bbdd4724999fd295975772b18663061dd314bf7ab3255154e92c32020fdf15"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"
