@@ -3,11 +3,11 @@ filename = "jamlib-fabric-1.2.2+1.21.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05ee0113e02b61f0321b5030ae90763e8521123b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/2J8TKset/jamlib-fabric-1.2.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "b20e4d625d36d16b06eaa8410bf01042487d2b5896a1f0cffc6b713b3e1112498ef63a021ee776da02d79d367c658935aaba20273d7f2f4a731d2b1890e484e2"
 
 [update]
-[update.curseforge]
-file-id = 5988111
-project-id = 623764
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "2J8TKset"
